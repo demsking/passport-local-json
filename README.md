@@ -9,7 +9,7 @@ unobtrusively integrated into any application or framework that supports
 [Connect](http://www.senchalabs.org/connect/)-style middleware, including
 [Express](http://expressjs.com/).
 
-> Note that this is a for of the popular [passport-local](https://github.com/jaredhanson/passport-local)
+> Note that this is a for of the popular package [passport-local](https://github.com/jaredhanson/passport-local)
 
 ## Install
 
@@ -106,4 +106,5 @@ app.post('/login',
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2020 Sébastien Demanou <[https://gitlab.com/demsking](https://gitlab.com/demsking)>
+
 Copyright (c) 2011-2015 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
