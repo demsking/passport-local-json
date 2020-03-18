@@ -1,7 +1,7 @@
 {
-  "name": "passport-local",
+  "name": "passport-local-json",
   "version": "1.0.0",
-  "description": "Local username and password authentication strategy for Passport.",
+  "description": "Local username and password authentication strategy for Passport using application/json",
   "keywords": [
     "passport",
     "local",
